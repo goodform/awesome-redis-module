@@ -70,7 +70,6 @@ def print_markdown_table(headers, data):
     for line in data_lines:
         print(line)
 
-# 自定义的排序函数
 def sort_by_third_column(row):
     time_str = row[2]
     datetime_obj = datetime.strptime(time_str, "%Y-%m-%d %H:%M:%S")
@@ -84,7 +83,6 @@ if not os.path.isfile(file_path):
 tmp_dir = "tmp"
 if not os.path.exists(tmp_dir):
     os.makedirs(tmp_dir)
-
 
 with open(file_path, 'r') as file:
     # Change to the "tmp" directory

@@ -28,8 +28,12 @@ This project is developed and maintained by the [Resources team][team].
 | [aviggiano/redis-roaring](https://github.com/aviggiano/redis-roaring) | MIT License | 2024-04-16 17:05:12 |
 | [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) | Redis Source Available License 2.0 | 2024-04-05 18:20:29 |
 | [ayarotsky/redis-shield](https://github.com/ayarotsky/redis-shield) | MIT License | 2024-04-02 10:46:09 |
+| [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) | Apache License | 2023-09-26 17:15:47 |
 | [sewenew/redis-llm](https://github.com/sewenew/redis-llm) | Apache License | 2023-08-21 22:37:14 |
+| [tair-opensource/TairGis](https://github.com/tair-opensource/TairGis) | Apache License | 2023-05-06 11:53:02 |
 | [wujunwei/redlock](https://github.com/wujunwei/redlock) | MIT License | 2023-02-19 20:51:24 |
+| [tair-opensource/TairZset](https://github.com/tair-opensource/TairZset) | Apache License | 2022-12-06 21:49:47 |
+| [tair-opensource/TairString](https://github.com/tair-opensource/TairString) | Apache License | 2022-10-09 10:27:46 |
 | [ekzhang/redis-rope](https://github.com/ekzhang/redis-rope) | MIT License | 2022-09-05 00:02:39 |
 | [danitseitlin/redis-interval-sets](https://github.com/danitseitlin/redis-interval-sets) | BSD 3-Clause License | 2022-06-17 11:21:10 |
 | [sewenew/redis-protobuf](https://github.com/sewenew/redis-protobuf) | Apache License | 2022-06-13 21:55:48 |
@@ -49,7 +53,6 @@ This project is developed and maintained by the [Resources team][team].
 | [sklivvz/cthulhu](https://github.com/sklivvz/cthulhu) | BSD 3-Clause License | 2019-06-28 11:09:41 |
 | [limithit/RedisPushIptables](https://github.com/limithit/RedisPushIptables) | GNU GPL | 2019-04-26 08:55:38 |
 | [gsquire/redis-multi-map](https://github.com/gsquire/redis-multi-map) | MIT License | 2019-02-20 19:59:22 |
-| [tidwall/redbench](https://github.com/tidwall/redbench) | Unknown license | 2018-11-10 10:37:44 |
 | [danni-m/redis-timeseries](https://github.com/danni-m/redis-timeseries) | Apache License | 2018-09-28 16:11:31 |
 | [infobip/redis-fpn](https://github.com/infobip/redis-fpn) | Apache License | 2018-08-29 14:18:38 |
 | [antirez/neural-redis](https://github.com/antirez/neural-redis) | Unknown license | 2018-06-22 12:00:25 |

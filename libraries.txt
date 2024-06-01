@@ -38,3 +38,11 @@ https://github.com/tair-opensource/TairString
 https://github.com/tair-opensource/TairZset
 https://github.com/tair-opensource/TairGis
 https://github.com/RedisLabs/redisraft
+https://github.com/RedisLabsModules/redex
+https://github.com/RedisLabsModules/RedisX
+https://github.com/RedisLabsModules/topk
+https://github.com/RedisLabsModules/countminsketch
+https://github.com/RedisLabsModules/pam_auth
+https://github.com/RedisLabsModules/password
+https://github.com/RedisLabsModules/rtexp
+https://github.com/RedisLabsModules/graphicsmagick

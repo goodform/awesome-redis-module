@@ -52,14 +52,22 @@ This project is developed and maintained by the [Resources team][team].
 | [swilly22/redis-graph](https://github.com/swilly22/redis-graph) | GNU GPL | 2020-02-13 15:09:43 |
 | [poga/redis-percentile](https://github.com/poga/redis-percentile) | MIT License | 2019-12-26 18:00:34 |
 | [f0rmiga/sessiongate](https://github.com/f0rmiga/sessiongate) | MIT License | 2019-11-11 15:10:07 |
+| [RedisLabsModules/RedisX](https://github.com/RedisLabsModules/RedisX) | Redis Source Available License | 2019-11-01 10:08:36 |
+| [RedisLabsModules/redex](https://github.com/RedisLabsModules/redex) | MIT License | 2019-07-25 11:32:34 |
+| [RedisLabsModules/topk](https://github.com/RedisLabsModules/topk) | GNU GPL | 2019-07-16 15:48:48 |
+| [RedisLabsModules/countminsketch](https://github.com/RedisLabsModules/countminsketch) | GNU GPL | 2019-07-16 15:47:33 |
 | [sklivvz/cthulhu](https://github.com/sklivvz/cthulhu) | BSD 3-Clause License | 2019-06-28 11:09:41 |
 | [limithit/RedisPushIptables](https://github.com/limithit/RedisPushIptables) | GNU GPL | 2019-04-26 08:55:38 |
 | [gsquire/redis-multi-map](https://github.com/gsquire/redis-multi-map) | MIT License | 2019-02-20 19:59:22 |
+| [RedisLabsModules/rtexp](https://github.com/RedisLabsModules/rtexp) | Apache License | 2018-12-11 15:39:41 |
 | [danni-m/redis-timeseries](https://github.com/danni-m/redis-timeseries) | Apache License | 2018-09-28 16:11:31 |
 | [infobip/redis-fpn](https://github.com/infobip/redis-fpn) | Apache License | 2018-08-29 14:18:38 |
 | [antirez/neural-redis](https://github.com/antirez/neural-redis) | Unknown license | 2018-06-22 12:00:25 |
 | [itamarhaber/zpop](https://github.com/itamarhaber/zpop) | Unknown license | 2018-05-17 15:31:00 |
 | [erans/redissnowflake](https://github.com/erans/redissnowflake) | Unknown license | 2017-05-11 08:48:57 |
+| [RedisLabsModules/password](https://github.com/RedisLabsModules/password) | GNU GPL | 2016-05-18 23:49:12 |
+| [RedisLabsModules/graphicsmagick](https://github.com/RedisLabsModules/graphicsmagick) | GNU GPL | 2016-05-08 14:21:21 |
+| [RedisLabsModules/pam_auth](https://github.com/RedisLabsModules/pam_auth) | GNU GPL | 2016-05-05 13:51:40 |
 
 ## SDKs
 

@@ -11,6 +11,7 @@ This project is developed and maintained by the [Resources team][team].
 - [Awesome Redis Module](#awesome-redis-module)
   - [Table of Contents](#table-of-contents)
   - [Libraries](#libraries)
+  - [Tools](#tools)
   - [Resources](#resources)
   - [License](#license)
   - [Code of Conduct](#code-of-conduct)
@@ -30,6 +31,7 @@ This project is developed and maintained by the [Resources team][team].
 | [ayarotsky/redis-shield](https://github.com/ayarotsky/redis-shield) | MIT License | 2024-04-02 10:46:09 |
 | [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) | Apache License | 2023-09-26 17:15:47 |
 | [sewenew/redis-llm](https://github.com/sewenew/redis-llm) | Apache License | 2023-08-21 22:37:14 |
+| [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) | Redis Source Available License 2.0 | 2023-07-18 15:19:06 |
 | [tair-opensource/TairGis](https://github.com/tair-opensource/TairGis) | Apache License | 2023-05-06 11:53:02 |
 | [wujunwei/redlock](https://github.com/wujunwei/redlock) | MIT License | 2023-02-19 20:51:24 |
 | [tair-opensource/TairZset](https://github.com/tair-opensource/TairZset) | Apache License | 2022-12-06 21:49:47 |
@@ -58,6 +60,20 @@ This project is developed and maintained by the [Resources team][team].
 | [antirez/neural-redis](https://github.com/antirez/neural-redis) | Unknown license | 2018-06-22 12:00:25 |
 | [itamarhaber/zpop](https://github.com/itamarhaber/zpop) | Unknown license | 2018-05-17 15:31:00 |
 | [erans/redissnowflake](https://github.com/erans/redissnowflake) | Unknown license | 2017-05-11 08:48:57 |
+
+## SDKs
+
+* [valkey-io/libvalkey: Valkey client library in C](https://github.com/valkey-io/libvalkey)
+* [valkey-io/valkey-go: A fast Golang Valkey client that supports Client Side Caching and Auto Pipelining.](https://github.com/valkey-io/valkey-go)
+* [valkey-io/valkey-py: Valkey Python client based on a fork of redis-py](https://github.com/valkey-io/valkey-py)
+* [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey)
+* [valkey-io/jackey: Java client for Valkey.](https://github.com/valkey-io/jackey)
+
+## Tools
+
+* [goodform/valkey-module-template: Valkey Module Template, help you to quick start.](https://github.com/goodform/valkey-module-template)
+* [goodform/valkey-module-template: Valkey Module Template, help you to quick start.](https://github.com/goodform/valkey-module-template)
+* [valkey-io/valkeymodule-rs: Rust valkey SDK for modules](https://github.com/valkey-io/valkeymodule-rs)
 
 ## Resources
 

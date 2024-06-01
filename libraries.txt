@@ -37,3 +37,4 @@ https://github.com/tair-opensource/TairHash
 https://github.com/tair-opensource/TairString
 https://github.com/tair-opensource/TairZset
 https://github.com/tair-opensource/TairGis
+https://github.com/RedisLabs/redisraft
